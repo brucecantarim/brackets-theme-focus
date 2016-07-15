@@ -9,7 +9,7 @@
 
 ###Changelog
  ---
- **July 14, 2016 - Version 1.0**
+ **July 15, 2016 - Version 1.0**
  * Initial release.
  
  <br/>
