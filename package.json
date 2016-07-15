@@ -1,0 +1,15 @@
+{
+    "name": "brucecantarim.focus",
+    "title": "Focus",
+    "description": "A really dark theme with vibrant colors that make sense, so that you won't miss anything. It'll help you focus at coding.",
+    "homepage": "https://github.com/brucecantarim/brackets-theme-focus",
+    "version": "1.0.0",
+    "author": "Bruce Cantarim <bruce@cantarim.com> (http://about.me/brucecantarim)",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
