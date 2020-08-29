@@ -1,5 +1,6 @@
-#FOCUS
-###A CUSTOM THEME FOR ADOBE BRACKETS
+# FOCUS
+## NO LONGER IN DEVELOPMENT
+### A CUSTOM THEME FOR ADOBE BRACKETS
 
 ![Screenshot of the Focus theme in action](screenshot.png)
 
@@ -7,14 +8,14 @@
 
 </br>
 
-###Changelog
+### Changelog
  ---
  **July 15, 2016 - Version 1.0**
  * Initial release.
  
  <br/>
 
-###Description
+### Description
 ---
 
 This theme follows the original template for Brackets Default Theme.<br/>
